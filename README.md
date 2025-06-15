@@ -16,5 +16,5 @@ It demonstrates a responsive layout with three pricing cards — Free, Pro, and 
 - HTML5
 - Bootstrap 5 (installed via npm)
 
-## 📂 Project Structure
+
 
